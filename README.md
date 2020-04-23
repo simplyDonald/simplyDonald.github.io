@@ -3,4 +3,4 @@ repo for the live and updated interactive map + data on the covid-19 pandemic in
 
 feel free to reach out for comments and contributions donaldabuah@gmail.com
 # MAPPER
-link to map: http://simplydonald.github.io/covid19incidencemap_Nigeria.html
+link to map: https://simplydonald.github.io/covid19incidencemap_Nigeria.html

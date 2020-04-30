@@ -3,4 +3,5 @@ repo for the live and updated interactive map + data on the covid-19 pandemic in
 
 feel free to reach out for comments and contributions donaldabuah@gmail.com
 # MAPPER
-link to map: <a href='https://simplydonald.github.io/covid19incidencemap_Nigeria.html'>CLICK HERE</a>
+link to choropleth map: <a href='https://simplydonald.github.io/covid19incidencemap_Nigeria.html'>CLICK HERE</a>
+link to Bubble map sorted by ACTIVE cases: <a href='https://simplydonald.github.io/incidenceBubble.html'>CLICK HERE</a>
